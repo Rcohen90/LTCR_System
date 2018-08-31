@@ -13,7 +13,7 @@ public class Hola_LTCR {
 
    
     public static void main(String[] args) {
-        System.out.println("LTCR TE AMO ♥");
+        System.out.println("LTCR TE AMO ♥ ");
     }
     
 }
